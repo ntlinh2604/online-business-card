@@ -1,0 +1,151 @@
+#root{
+  font-family: 'Inter';
+  font-style: normal;
+  align-items: center;
+  margin: auto;
+  /* width: 550px;
+  height: 868px; */
+  background: #23252C;
+
+}
+
+.App{
+  margin: auto;
+  width: 317px;
+}
+
+.img{
+  background-color: rgb(14, 13, 13);
+  width: 317px;
+  height: 317px;
+  border-radius: 10px 10px 0px 0px;
+  background-repeat: repeat;
+  object-fit: cover;
+}
+.name{
+  font-size: 25px;
+  margin-bottom: 10px;
+  line-height: 30px;
+  color: #2B283A;
+  padding-top: 10px;
+}
+
+.job{
+  font-size: 12.8px;
+  margin-bottom: 10px;
+  margin-top: 0;
+  font-weight: 400;
+  color: #F47D27;
+}
+.email{
+  margin-top: 10px;
+  font-weight: 400;
+  font-size: 10.24px;
+  color: #4A4E74;
+}
+
+.email-btn{
+  width: 247px;
+  height: 34px;
+  background: #FFFFFF;
+  border: 1px solid #D1D5DB;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+  font-size:10px;
+  font-weight: 500;
+  color: #374151;
+  cursor: pointer;
+}
+
+.info-container{
+  text-align: center;
+}
+.info-content{
+  margin-top: -4px;
+  background-color: #fff;
+}
+.about-container{
+  padding-top: 20px;
+  background-color: #fff;
+
+}
+.about-content{
+  width: 247px;
+  margin: auto;
+}
+
+.email-icon{
+  color: #1E1F26;
+  width: 12.8px;
+  font-size: 10px;
+}
+
+h4{
+  margin-block-start: 0;
+  margin-top: 0;
+  font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+
+color: #2B283A;
+  margin-bottom: 0;
+
+}
+p{
+  margin-top: 10px;
+  font-size: 10.24px;
+line-height: 150%;
+/* or 15px */
+
+
+color: #4A4E74;
+
+}
+.about-title{
+  margin-top: 0;
+}
+
+.about-text{
+  margin-bottom: 0;
+}
+
+.interest-container{
+  padding-top: 20px;
+
+  background-color: #fff;
+  padding-bottom: 30px;
+}
+.interest-content{
+  width: 247px;
+  margin: auto;
+}
+.interest-title{
+  margin-top: 0;
+}
+.interest-text{
+  margin-bottom: 0;
+}
+
+.footer-container{
+  background: #D5D4D8;
+border-radius: 0px 0px 10px 10px;
+}
+
+ul{
+  padding: 10px 0px;
+  padding-left: 0;
+  margin-top: 0;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+li{
+  margin-right: 20px;
+  color: #918E9B;
+}
+li a i{
+  color: #918E9B;
+  font-size: 25px;
+}
