@@ -8,9 +8,9 @@ export default function Info() {
             <div className='info-content'>
             <h4 className="name">Linh Nguyen</h4>
             <h5 className='job'>Frontend Developer</h5>
-            <p className="email">ntlinh2604@gmail.com</p>
+            <p className="email">kathy.thuylinhnguyen@gmail.com</p>
             <button className="email-btn">
-                <a href=""><i class="fa-sharp fa-solid fa-envelope email-icon"></i></a>
+                <a href="https://mail.google.com/"><i class="fa-sharp fa-solid fa-envelope email-icon"></i></a>
                 Email</button>
             </div>
             
